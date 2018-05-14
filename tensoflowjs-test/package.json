@@ -1,0 +1,25 @@
+{
+  "name": "tensoflowjs-test",
+  "version": "1.0.0",
+  "description": "Experimenting with tensorflow js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinanjana/tfjs-experment.git"
+  },
+  "author": "dinanjana",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.10.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}
